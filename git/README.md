@@ -1,4 +1,4 @@
-# Git Project
+# :mortar_board:Git Project
 
 ## Learning Objectives
 
