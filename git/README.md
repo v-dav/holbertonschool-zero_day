@@ -1,4 +1,4 @@
-# :mortar_board:Git Project
+![image](https://github.com/v-dav/holbertonschool-low_level_programming/assets/115344057/8f450ae6-cc43-4b46-a9c6-324917cbf9a0)
 
 ## Learning Objectives
 
